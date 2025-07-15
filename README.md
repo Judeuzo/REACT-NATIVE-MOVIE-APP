@@ -9,8 +9,12 @@
   </div>
 
   <h3 align="center">A Movie Finding App with Extensive Search</h3>
+  
 
 </div>
+
+![Alt text](https://i.pinimg.com/1200x/ed/40/03/ed4003c0945b2d1b682b2d246e7ee96f.jpg)
+
 
 ## 📋 <a name="table">Table of Contents</a>
 
